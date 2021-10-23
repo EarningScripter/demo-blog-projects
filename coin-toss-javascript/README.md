@@ -8,6 +8,6 @@ To build this small project, you will
 - Make the coin tossing effect animation in CSS
 - Trigger coin toss in Javascript
 
-[Read the tutorial on my blog](https://rezabaharvand.dev/blog/coin-toss-javascript/)
+[Read the tutorial on my blog](https://rezabaharvand.dev/blog/coin-flip-javascript)
 
 [Project's Demo](https://rezabaharvand-blog-projects.netlify.app/coin-toss-javascript/)
