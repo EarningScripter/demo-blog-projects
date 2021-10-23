@@ -36,3 +36,21 @@
   height: 100%;
   backface-visibility: hidden;
 }
+
+@keyframes flip-heads {
+  0% {
+    transform: rotateX(0);
+  }
+  100% {
+    transform: rotateX(2520deg);
+  }
+}
+
+@keyframes flip-tails {
+  0% {
+    transform: rotateX(0);
+  }
+  100% {
+    transform: rotateX(2340deg);
+  }
+}
